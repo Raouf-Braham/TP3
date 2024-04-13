@@ -72,7 +72,7 @@ public class XORCipher {
 
     public static void main(String[] args) {
         // Clé de chiffrement
-        String key = "kR0g";
+        String key = "secret";
         // Texte clair à chiffrer
         String plaintext = "Hello, world";
 
